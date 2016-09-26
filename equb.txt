@@ -1,0 +1,1 @@
+{"cuirass":0,"hat":0,"shoe":0,"pants":0,"ring":0}
