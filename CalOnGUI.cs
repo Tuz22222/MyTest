@@ -1,6 +1,7 @@
 /// <summary>
 /// Cal on GUI
 /// This script is use for calculate GUI with screen ratio
+/// 小垃圾
 /// </summary>
 
 using UnityEngine;
